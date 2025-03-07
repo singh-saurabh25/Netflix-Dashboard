@@ -4,7 +4,7 @@
 This repository contains a Tableau Public dashboard visualizing Netflix content data. The dashboard provides insights into Netflix's movies and TV shows, covering aspects such as genre distribution, country-wise content availability, content ratings, and historical trends.
 
 ## Dashboard Link
-[Click here to view the Tableau Public Dashboard](https://public.tableau.com/app/profile/saurabh.kumar.singh5788/viz/Netflix_17413495643140/Netflix)
+[Click here to view the Netflix-Dashboard](https://public.tableau.com/app/profile/saurabh.kumar.singh5788/viz/Netflix_17413495643140/Netflix)
 
 ## Features
 - **Movies & TV Shows Distribution:** A visual breakdown of the proportion of movies versus TV shows on Netflix.
@@ -22,7 +22,7 @@ This repository contains a Tableau Public dashboard visualizing Netflix content 
 - The dataset covers Netflix content from **2008 to 2020**.
 
 ## Requirements
-- Tableau Public (for viewing and modifying the visualization)
+- [Tableau Public](https://public.tableau.com/) (for viewing and modifying the visualization)
 - A web browser to access the Tableau Public dashboard
 
 ## Usage
@@ -40,6 +40,8 @@ This repository contains a Tableau Public dashboard visualizing Netflix content 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- Data Source: Netflix Dataset
-- Visualization Tool: Tableau Public
+- **Data Source:** Netflix Dataset
+- **Visualization Tool:** Tableau Public
+
+
 
